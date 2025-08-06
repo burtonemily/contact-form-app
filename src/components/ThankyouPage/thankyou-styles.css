@@ -1,0 +1,35 @@
+.confirmation-page {
+  text-align: center;
+  gap: 2rem;
+}
+
+.thankyou-logo {
+  width: 60px;
+  height: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+.thankyou-header {
+  font-size: 2rem;
+  font-family: "Merriweather", sans-serif;
+  letter-spacing: 0.3rem;
+  font-weight: 200;
+  text-align: center;
+  line-height: 3rem;
+  margin-bottom: 20px;
+}
+
+.confirmation-page p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.2rem;
+  font-weight: 300;
+  color: #fff;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.confirmation-page button {
+  margin-top: 5rem;
+}
